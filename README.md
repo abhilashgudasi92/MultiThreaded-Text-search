@@ -15,4 +15,5 @@ C# Windows application that searches for all the occurences of a string in a tex
 Main thread: Read file line by line
 
 Child thread: search of text in the line, if present add to the list along with the line number.
+
 Progress: bytes read / total size of file.
